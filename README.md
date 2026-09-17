@@ -18,7 +18,7 @@
     <a href="mailto:yogeshgangji22@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://portfolio-yogesh.vercel.app" target="_blank">
+    <a href="yogesh-gangji-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="tel:+918805828456">
@@ -132,15 +132,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogeshGangji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06B6D4&icon_color=06B6D4&text_color=94A3B8&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshGangji&layout=compact&theme=tokyonight&hide_border=true&title_color=06B6D4&text_color=94A3B8&bg_color=0D1117" height="165" alt="Top Languages" />
-</div>
 
 ---
 
