@@ -85,11 +85,11 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Backend Core** | Java (17+), Spring Boot 3, Spring Data JPA, Spring Security, Hibernate ORM, RESTful Web Services |
-| **Databases** | PostgreSQL, MySQL, Redis Caching, Flyway Migrations, JDBC, SQL Optimization |
-| **Architecture** | Microservices, MVC Architecture, JWT Authentication, Transaction Management |
-| **DevOps & Testing** | Docker, Linux CLI & Shell Scripting, Postman, Swagger/OpenAPI, Maven, Git |
-| **Frontend (Secondary)**| React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3 |
+| **Backend Core** | Java, Spring Boot , Spring Data JPA, Spring Security, Hibernate ORM, RESTful Web Services |
+| **Databases** | PostgreSQL, MySQL, Flyway Migrations, JDBC, SQL Optimization |
+| **Architecture** | Microservices, MVC Architecture, JWT Authentication |
+| **DevOps & Testing** | Docker, Linux CLI & Shell Scripting, Postman, Swagger, Maven, Git |
+| **Frontend **| React, Tailwind CSS, JavaScript , HTML5, CSS |
 
 ---
 
