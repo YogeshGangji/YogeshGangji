@@ -18,7 +18,7 @@
     <a href="mailto:yogeshgangji22@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="yogesh-gangji-portfolio.vercel.app" target="_blank">
+    <a href="https://yogesh-gangji-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="tel:+918805828456">
